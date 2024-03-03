@@ -1,2 +1,2 @@
-# wind-turbine-power-analysis
+# wind-turbine-energy-model-prediction
  
